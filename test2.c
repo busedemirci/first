@@ -1,0 +1,1 @@
+printf("Burası c coplugu");
